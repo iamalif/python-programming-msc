@@ -1,0 +1,5 @@
+Hello, World!
+This is a new file.
+Python file I/O is easy!
+This line was appended.
+So was this one.
