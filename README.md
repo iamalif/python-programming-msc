@@ -25,5 +25,9 @@ throughout the programme.
 - File handling
 - Libraries including NumPy and Pandas
 
+## Highlights
+- `python-lab3-assignment` — OOP programs built using classes, 
+  including a Pet manager and a Movie CRUD application
+
 ## Status
 🟡 Ongoing — updated continuously throughout the MSc programme.
